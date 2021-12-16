@@ -1,6 +1,6 @@
 # parameters
 ARG REPO_NAME="my-programm"
-ARG DESCRIPTION="<DESCRIPTION_HERE>"
+ARG DESCRIPTION="my-grogramm"
 ARG MAINTAINER="FynnHansen (fynnh005@gmail.com)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
